@@ -4,4 +4,8 @@ A web developer, I do Frontend development mostly but also enjoy doing Backend d
 - 🔭 I’m currently working on [FOOD.ID]
 - 🌱 I’m currently learning SolidJS, Rust, or any new interesting tools of web development
 
+<br/>
+
+![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangga-pr&show_icons=true&count_private=true&theme=vue)
+
 [FOOD.ID]: https://food.id
